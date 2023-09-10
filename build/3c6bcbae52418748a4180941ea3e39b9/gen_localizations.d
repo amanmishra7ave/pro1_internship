@@ -1,0 +1,1 @@
+ /home/groot/Documents/businace-mobile/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /home/groot/Documents/businace-mobile/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /home/groot/Documents/businace-mobile/l10n.yaml /home/groot/Documents/businace-mobile/lib/src/localization/app_en.arb
